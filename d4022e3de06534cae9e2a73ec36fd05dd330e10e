@@ -1,0 +1,1 @@
+{"jobID":"fd1577d7-14a5-c16c-32d3-cddf0aa05742","spec":{"type":"policy","cause":{"Message":"","User":"Giovanni Liva \u003cthis_that@hotmail.it\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
