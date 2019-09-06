@@ -16,7 +16,7 @@ spec:
   - host: training-user-22.training.weave.works
     http:
       paths:
-      - path: /mf
+      - path: /mighty-fine
         backend:
-          serviceName: mf
+          serviceName: mighty-fine
           servicePort: 9898

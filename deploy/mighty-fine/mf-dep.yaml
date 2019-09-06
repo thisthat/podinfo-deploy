@@ -2,7 +2,7 @@
 kind: Deployment
 apiVersion: apps/v1
 metadata:
-  name: mf
+  name: mighty-fine
   namespace: dev
   annotations:
     flux.weave.works/tag.podinfod: glob:*
@@ -10,16 +10,16 @@ spec:
   replicas: 3
   selector:
     matchLabels:
-      app: mf
+      app: mighty-fine
   template:
     metadata:
       labels:
-        app: mf
+        app: mighty-fine
       annotations:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: mf
+      - name: mighty-fine
         image: quay.io/brice/metrics-demo:v4-subscription-service
         ports:
         - containerPort: 3000
