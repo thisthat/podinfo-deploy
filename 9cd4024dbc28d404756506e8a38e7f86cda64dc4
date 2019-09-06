@@ -1,0 +1,1 @@
+{"jobID":"4befb438-32df-472c-4597-4e65dbf38bc5","spec":{"type":"policy","cause":{"Message":"","User":"Giovanni Liva \u003cthis_that@hotmail.it\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
