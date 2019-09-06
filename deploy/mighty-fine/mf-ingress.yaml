@@ -19,4 +19,4 @@ spec:
       - path: /mighty-fine
         backend:
           serviceName: mighty-fine
-          servicePort: 9898
+          servicePort: 3000
