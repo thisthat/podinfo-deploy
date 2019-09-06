@@ -1,0 +1,1 @@
+{"jobID":"fc67bb2b-7c24-0ade-29f1-b7329f267dde","spec":{"type":"policy","cause":{"Message":"","User":"Giovanni Liva \u003cthis_that@hotmail.it\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.podinfod":"semver:*"},"remove":null}}},"result":null}
